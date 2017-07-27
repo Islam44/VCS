@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String user="ie";
         //facebook Is great
+        // acually is not good
     }
 }
